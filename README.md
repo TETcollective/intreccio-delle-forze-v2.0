@@ -26,7 +26,7 @@ La versione estesa 2.0 integra:
 - Convergenza nelle teorie GUT e running degli accoppiamenti
 - Deviazione della luce da materia oscura, energia oscura e buchi neri come prova macroscopica dell’intreccio EM-gravità
 
-DOI: https://doi.org/10.5281/zenodo.18006692 (Versione 2.0)
+DOI: https://doi.org/10.5281/zenodo.18006692 (Versione 1.0)
 
 ## File
 
