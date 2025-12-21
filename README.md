@@ -1,5 +1,5 @@
 # intreccio-delle-forze-v2.0
-L’intreccio delle forze: verso un tessuto unitario multiscalare della natura – Versione estesa 2.0. Dal magnete quotidiano alla topologia quantistica del grafene, QCD, Sole, LQG e cosmologia oscura
+L’intreccio delle forze: verso un tessuto unitario multiscalare della natura – Versione estesa 2.0. Dal magnete quotidiano alla topologia quantistica del grafene, QCD, Sole, LQG e cosmologia oscura.
 
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
