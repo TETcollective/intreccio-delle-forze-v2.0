@@ -2,7 +2,7 @@
 L’intreccio delle forze: verso un tessuto unitario multiscalare della natura – Versione estesa 2.0. Dal magnete quotidiano alla topologia quantistica del grafene, QCD, Sole, LQG e cosmologia oscura.
 
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 # L'intreccio delle forze – Versione estesa 2.0
 
@@ -34,11 +34,18 @@ DOI: https://doi.org/10.5281/zenodo.18006692 (Versione 1.0)
 - `paper_v2.pdf` → PDF compilato
 - `spirarelogaritmica.png` → Immagine della spirale logaritmica
 
-## Licenza
+## Copyright and Usage Rights
 
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
-Condivisione libera con attribuzione, nessun uso commerciale, nessuna modifica.
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
 
-Link licenza: https://creativecommons.org/licenses/by-nc-nd/4.0/
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 Fratello delle Calamite ☕❤️🚀
